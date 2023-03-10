@@ -8,6 +8,7 @@ module.exports = {
       colors:{
         reddit_dark:{
           DEFAULT: '#030303',
+          brighter : '#272728'
         }
       }
     },
